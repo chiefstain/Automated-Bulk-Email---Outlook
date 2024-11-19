@@ -5,13 +5,228 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75bfd95d-f809-495e-9ab2-ed20f3ebce11" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bulk email.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_certificates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-100.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-101.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-102.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-103.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-104.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-105.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-106.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-107.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-108.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-109.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-110.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-111.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-112.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-113.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-114.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-115.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-116.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-117.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-118.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-119.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-120.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-121.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-122.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-123.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-124.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-125.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-126.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-127.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-128.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-129.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-130.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-131.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-132.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-133.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-134.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-135.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-136.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-137.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-138.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-139.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-140.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-141.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-142.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-143.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-144.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-145.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-146.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-147.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-148.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-149.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-150.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-151.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-152.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-153.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-154.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-155.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-156.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-157.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-158.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-159.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-16.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-160.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-161.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-162.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-163.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-164.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-165.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-166.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-167.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-168.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-169.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-170.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-171.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-172.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-173.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-174.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-175.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-176.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-177.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-178.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-179.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-180.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-181.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-182.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-183.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-184.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-185.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-186.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-187.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-188.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-189.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-19.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-190.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-191.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-192.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-193.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-194.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-195.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-196.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-197.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-198.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-199.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-200.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-201.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-202.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-203.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-204.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-205.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-206.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-207.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-208.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-209.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-210.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-211.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-212.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-213.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-214.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-215.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-216.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-217.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-218.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-219.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-24.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-25.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-26.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-27.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-28.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-29.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-30.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-31.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-32.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-33.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-34.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-35.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-36.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-37.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-38.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-39.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-40.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-41.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-42.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-43.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-44.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-45.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-46.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-47.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-48.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-49.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-50.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-51.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-52.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-53.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-54.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-55.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-56.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-57.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-58.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-59.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-60.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-61.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-62.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-63.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-64.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-65.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-66.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-67.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-68.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-69.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-70.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-71.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-72.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-73.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-74.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-75.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-76.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-77.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-78.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-79.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-80.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-81.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-82.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-83.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-84.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-85.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-86.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-87.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-88.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-89.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-90.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-91.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-92.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-93.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-94.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-95.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-96.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-97.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-98.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates list/Delegates-99.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delegates.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcc.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +256,7 @@
   "keyToString": {
     "Python.send_certificates.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
